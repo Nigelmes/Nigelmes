@@ -1,8 +1,8 @@
 <div id="header" align="center">
 	<h1>Hi there, I'm Almaz</h1>
-          <h3>Golang Developer</h3>
+          <h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" title="go" width="40" height="40"/>&nbsp;Golang Developer</h3>
 </div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+
           
 
 <!--
