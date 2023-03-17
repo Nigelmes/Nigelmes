@@ -1,9 +1,9 @@
 <div id="header" align="center">
 	<h1>Hi there, I'm Almaz</h1>
-	
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
           <h3>Golang Developer</h3>
 </div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+          
 
 <!--
 **Nigelmes/Nigelmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
